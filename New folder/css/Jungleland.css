@@ -378,13 +378,12 @@ input.button {
 /* Content */
 #content-wrap {
 	clear: both;
-	width: 700px;	
 	margin: 5px 0 0 0;
 	padding: 0;			
 }
 #content {
 	float: left;
-	width: 920px;
+	width: 900px;
 	margin-left: 10px;		
 	padding-bottom: 40px;
 	display: inline;		
