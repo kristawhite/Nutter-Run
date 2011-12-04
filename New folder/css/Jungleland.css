@@ -377,7 +377,8 @@ input.button {
 
 /* Content */
 #content-wrap {
-	clear: both;	
+	clear: both;
+	width: 700px;	
 	margin: 5px 0 0 0;
 	padding: 0;			
 }
