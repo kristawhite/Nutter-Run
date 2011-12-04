@@ -12,7 +12,7 @@
 ------------------------------------------------- */ 
 body {
 	font: 12px/170% 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, Sans-Serif;
-	color: #91807F; 
+	color: #F6FBF7; 
 	margin: 0; padding: 0; 
 	background: #1d140f url(../images/bg.gif) repeat-x;
 	text-align: center;
@@ -378,8 +378,8 @@ input.button {
 /* Content */
 #content-wrap {
 	clear: both;	
-	width: 940px;
-	margin: 5px 0 0 0; padding: 0;			
+	margin: 5px 0 0 0;
+	padding: 0;			
 }
 #content {
 	float: left;
@@ -391,7 +391,6 @@ input.button {
 
 /* Main */
 #main {
-	width: 600px;	
 	float: left;	
 	padding-top: 5px;			
 }
